@@ -1,0 +1,10 @@
+[package]
+name = "cli_converter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "cli_converter"
+path = "main.rs"
